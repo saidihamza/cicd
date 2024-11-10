@@ -3,3 +3,5 @@ pytesseract
 scikit-learn
 nltk
 joblib
+fastapi
+uvicorn
